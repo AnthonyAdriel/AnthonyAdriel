@@ -1,6 +1,6 @@
 # Olá!
 
-Sou estudante de Engenharia de Software na UNINTER e estou começando minha trajetória no desenvolvimento de software.
+Me chamo Anthony, Sou estudante de Engenharia de Software na UNINTER e estou começando minha trajetória no desenvolvimento de software.
 Atualmente, tenho dedicado boa parte do meu tempo ao Python, principalmente à lógica de programação e aos fundamentos de Back-end.
 Gosto de entender o porquê das coisas, descobrir como os sistemas funcionam e colocar em prática o que aprendo.
 
