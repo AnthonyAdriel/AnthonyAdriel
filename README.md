@@ -1,16 +1,30 @@
-## Hi there 👋
+# Opa, eu sou o Anthony! 👋
 
-<!--
-**AnthonyAdriel/AnthonyAdriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software na UNINTER e estou começando minha trajetória no desenvolvimento de software.
+Atualmente, tenho dedicado boa parte do meu tempo ao Python, principalmente à lógica de programação e aos fundamentos de Back-end.
+Gosto de entender o porquê das coisas, descobrir como os sistemas funcionam e colocar em prática o que aprendo.
 
-Here are some ideas to get you started:
+### O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python e programação orientada a objetos
+- Git e GitHub
+- SQL e bancos de dados
+- HTTP e APIs
+
+### Um projeto que estou construindo
+
+**[Parallax Telemetry Lab](https://github.com/AnthonyAdriel/parallax-telemetry-lab)**
+
+Meu projeto pessoal em Python.
+A ideia é trabalhar com eventos de jogadores, validar informações, organizar dados e gerar relatórios.
+Estou desenvolvendo o Parallax aos poucos, aplicando o que aprendo e melhorando a estrutura conforme avanço nos estudos.
+
+### E agora?
+
+Quero seguir na área de Back-end e estou buscando minha primeira oportunidade de estágio em desenvolvimento de software.
+Ainda tenho bastante coisa para aprender, mas gosto de colocar a mão na massa.
+
+---
+
+📍 Blumenau, SC
+[LinkedIn](https://www.linkedin.com/in/anthony-adriel-de-morais-/) · [Parallax Telemetry Lab](https://github.com/AnthonyAdriel/parallax-telemetry-lab)
