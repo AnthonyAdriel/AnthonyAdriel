@@ -1,4 +1,4 @@
-# Opa, eu sou o Anthony! 👋
+# Olá!
 
 Sou estudante de Engenharia de Software na UNINTER e estou começando minha trajetória no desenvolvimento de software.
 Atualmente, tenho dedicado boa parte do meu tempo ao Python, principalmente à lógica de programação e aos fundamentos de Back-end.
