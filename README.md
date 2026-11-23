@@ -22,7 +22,7 @@ Estou desenvolvendo o Parallax aos poucos, aplicando o que aprendo e melhorando 
 ### E agora?
 
 Quero seguir na área de Back-end e estou buscando minha primeira oportunidade de estágio em desenvolvimento de software.
-Ainda tenho bastante coisa para aprender, mas gosto de colocar a mão na massa.
+Meu foco agora é continuar desenvolvendo projetos, aprofundar meus conhecimentos e conquistar minha primeira experiência profissional na área.
 
 ---
 
